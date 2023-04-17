@@ -1,4 +1,4 @@
-# cs210
+# Item Frequency Counter
 1.) Summarize the project and what problem it was solving
 
 The project takes in a file input that includes a list of items. These items are food items and many are repeating. The problem was that we needed to figure out the frequency of each item listed. We then needed to create a file from this data that displayed every item in the list and the amount of times its repeated. 
